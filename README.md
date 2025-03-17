@@ -1,16 +1,14 @@
-## Hi there 👋
+##Hi, I'm Merve Saruhan! 👋
+👩🏻‍💻 About Me 👩🏻‍💻
 
-<!--
-**mervesaruhan/mervesaruhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a backend developer with a strong foundation in .NET, C#, and Entity Framework Core. Currently, I am improving my skills in Spring Boot to expand my expertise in backend development.
 
-Here are some ideas to get you started:
+I have worked on various projects such as a site management system and a bookstore e-commerce platform. These projects involved implementing core features like CRUD operations, JWT integration, payment systems, and database migrations to enhance functionality and improve security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With a bachelor's degree, I bring strong analytical thinking and problem-solving skills to my development process, ensuring well-structured and efficient solutions.
+
+I am passionate about learning new technologies, developing impactful projects, and continuously improving myself.
+
+🚀 Open to new opportunities.
+📫 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/merve-saruhan-47b00117a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) or explore my projects on [GitHub](https://github.com/mervesaruhan)!
+
